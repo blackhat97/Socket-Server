@@ -1,0 +1,4657 @@
+closing connection to
+accepted connection from ('221.150.37.160', 62564)
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+accepted connection from ('221.150.37.160', 54688)
+GET /socket.io/?EIO=3&transport=polling&t=MdSo5HO&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 54693)
+GET /socket.io/?EIO=3&transport=polling&t=MdSo5Wy&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 54698)
+GET /socket.io/?EIO=3&transport=polling&t=MdSo5mY&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 54703)
+GET /socket.io/?EIO=3&transport=polling&t=MdSo60A&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 54708)
+GET /socket.io/?EIO=3&transport=polling&t=MdSo6Fo&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 54713)
+GET /socket.io/?EIO=3&transport=polling&t=MdSo6VQ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 54718)
+GET /socket.io/?EIO=3&transport=polling&t=MdSo6l2&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 54723)
+GET /socket.io/?EIO=3&transport=polling&t=MdSo6-h&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 54730)
+GET /socket.io/?EIO=3&transport=polling&t=MdSo7EI&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 54735)
+GET /socket.io/?EIO=3&transport=polling&t=MdSo7Tw&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 56001)
+closing connection to ('221.150.37.160', 54698)
+closing connection to ('221.150.37.160', 54723)
+closing connection to ('221.150.37.160', 54730)
+closing connection to ('221.150.37.160', 54708)
+closing connection to ('221.150.37.160', 54703)
+closing connection to ('221.150.37.160', 54688)
+closing connection to ('221.150.37.160', 54735)
+closing connection to ('221.150.37.160', 54718)
+closing connection to ('221.150.37.160', 54713)
+closing connection to ('221.150.37.160', 54693)
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+accepted connection from ('221.150.37.160', 55039)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPKG&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55040)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPKW&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55041)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPKq&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55042)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPL8&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55043)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPLR&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55044)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPLl&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55045)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPM3&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55046)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPMN&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55047)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPMh&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55048)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPM_&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55049)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPNK&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55050)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPNd&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55051)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPNx&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55052)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPOF&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55053)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPOZ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55054)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPOt&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55055)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPPB&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55057)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPPV&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55058)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPPp&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55059)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPQ7&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55060)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPQR&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55061)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPQl&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55066)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPR4&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55067)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPRN&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55068)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPRi&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55069)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPS0&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55070)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPSJ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55071)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPSd&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55072)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPSx&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55073)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPTF&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55074)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPTZ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55075)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPTt&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55076)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPUB&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55077)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPUV&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55078)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPUp&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55079)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPV8&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55080)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPVR&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55081)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPVl&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55082)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPW3&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55083)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPWN&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55084)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPWh&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55085)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPW_&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55086)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPXJ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55087)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPXd&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55088)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPXx&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55089)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPYG&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55090)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPYZ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55091)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPYt&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55092)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPZB&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55093)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPZV&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55094)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPZp&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55095)
+accepted connection from ('221.150.37.160', 55096)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPaR&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPa7&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55097)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPal&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55098)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPb3&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55099)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPbN&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55100)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPbh&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55101)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPb_&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55102)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPcJ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55103)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPcd&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55104)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPcx&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55105)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPdF&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55106)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPdZ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55107)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPdt&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55108)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPeB&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55109)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPeV&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55110)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPep&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55111)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPf7&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55112)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPfR&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55113)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPfl&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55114)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPg3&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55115)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPgN&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55117)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPgh&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55121)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPg_&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55122)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPhJ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55124)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPhx&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55123)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPhd&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55125)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPiF&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55126)
+accepted connection from ('221.150.37.160', 55127)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPiZ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPit&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55128)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPjB&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55129)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPjV&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55130)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPjp&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55131)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPk7&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55132)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPkR&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55133)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPkl&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55134)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPl3&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55135)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPlN&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55136)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPlh&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55137)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPl_&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55138)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPmJ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55139)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPmd&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55140)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPmx&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55141)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPnF&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55142)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPnZ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55143)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPnt&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55144)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPoB&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55145)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPoV&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55146)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPop&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55147)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPp7&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55148)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPpR&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55149)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPpl&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55150)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPq3&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55151)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPqN&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55152)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPqh&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55153)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPq_&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55154)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPrJ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55155)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPrd&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55156)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPrx&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55157)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPsF&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55158)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPsZ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55159)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPst&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55160)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPtB&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55161)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPtV&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55162)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPtp&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55163)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPu7&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55164)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPuR&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55165)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPul&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55166)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPv3&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55167)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPvN&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55168)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPvh&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55169)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPv_&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55170)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPwJ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55175)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPwd&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55176)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPx0&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55177)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPxG&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55178)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPxZ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55179)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPxt&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55180)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPyB&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55181)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPyV&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55182)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPyp&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55183)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPz7&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55184)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPzR&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55185)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoPzl&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55186)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoP-3&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55187)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoP-N&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55188)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoP-h&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55189)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoP-_&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55190)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoP_J&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55191)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoP_d&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55192)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoP_x&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55193)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ0F&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55194)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ0Z&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55195)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ0t&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55196)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ1B&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55197)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ1V&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55198)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ1p&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55199)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ27&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55200)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ2R&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55201)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ2l&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55202)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ33&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55203)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ3N&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55204)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ3h&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55205)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ3_&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55206)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ4J&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55207)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ4d&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55208)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ4x&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55209)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ5F&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55210)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ5Z&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55211)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ5t&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55212)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ6B&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55213)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ6V&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55214)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ6p&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55215)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ77&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55216)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ7R&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55217)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ7l&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55218)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ83&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55219)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ8N&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55220)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ8h&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55221)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ8_&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55222)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ9J&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55223)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ9d&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55224)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ9x&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55229)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQAF&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55230)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQAZ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55231)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQAt&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55232)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQBB&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55233)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQBV&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55234)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQBp&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55235)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQC7&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55236)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQCR&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55237)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQCl&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55238)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQD3&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55239)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQDN&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55240)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQDh&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55241)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQD_&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55242)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQEJ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55243)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQEd&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55244)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQEx&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55245)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQFF&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55246)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQFZ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55247)
+accepted connection from ('221.150.37.160', 55248)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQFt&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQGB&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55249)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQGV&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55250)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQGp&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55251)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQH7&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55252)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQHR&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55253)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQHl&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55254)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQI3&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55255)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQIN&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55256)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQIh&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55257)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQI_&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55258)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQJJ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55259)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQJd&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55260)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQJx&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55261)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQKF&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55262)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQKZ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55263)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQKt&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55264)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQLB&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55265)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQLV&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55266)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQLp&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55267)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQM7&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55268)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQMR&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55269)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQMl&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55270)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQN3&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55271)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQNN&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55272)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQNh&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55273)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQN_&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55274)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQOJ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55275)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQOd&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55276)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQOx&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55277)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQPF&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55278)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQPZ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55283)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQPt&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55284)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQQB&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55285)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQQV&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55286)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQQp&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55287)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQR7&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55288)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQRR&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55289)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQRl&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55290)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQS3&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55291)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQSN&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55292)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQSh&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55293)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQS_&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55294)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQTK&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55295)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQTd&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55296)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQTx&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55297)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQUF&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55298)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQUZ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55299)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQUt&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55300)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQVB&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55301)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQVV&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55302)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQVp&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55303)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQW7&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55304)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQWR&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55305)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQWl&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55306)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQX3&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55307)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQXN&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55308)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQXh&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55309)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQY2&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55310)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQYJ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55311)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQYd&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55312)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQYx&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55313)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQZF&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55314)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQZZ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55315)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQZu&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55316)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQaB&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55317)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQaV&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55318)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQap&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55319)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQb7&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55320)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQbR&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55321)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQbl&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55322)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQc3&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55324)
+accepted connection from ('221.150.37.160', 55323)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQch&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQcN&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55325)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQc_&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55326)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQdJ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55327)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQdd&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55328)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQdx&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55329)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQeF&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55330)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQeZ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55331)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQet&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55332)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQfB&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55337)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQfV&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55338)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQfp&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55339)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQg7&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55340)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQgR&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55341)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQgm&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55342)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQh3&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55344)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQhh&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55343)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQhN&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55345)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQh_&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55346)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQiJ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55348)
+accepted connection from ('221.150.37.160', 55347)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQix&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQid&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55349)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQjF&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55350)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQjZ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55351)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQjt&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55353)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQkV&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55352)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQkB&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55354)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQkp&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55355)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQl7&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55356)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQlR&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55357)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQll&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55358)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQm3&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55359)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQmN&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55360)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQmh&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55361)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQm_&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55362)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQnJ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55363)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQnd&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55364)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQnx&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55365)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQoF&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55366)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQoZ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55367)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQou&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55368)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQpB&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55369)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQpV&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55370)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQpp&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55371)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQq7&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55372)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQqS&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55373)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQql&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55374)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQr3&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55375)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQrN&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55376)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQrh&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55377)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQr_&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55378)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQsK&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55379)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQsd&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55380)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQsx&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55381)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQtF&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55382)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQtZ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+accepted connection from ('221.150.37.160', 55383)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQtt&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55384)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQuB&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55385)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQuV&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55386)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQuq&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55391)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQv7&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55392)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQvR&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55393)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQvl&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55394)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQw3&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55395)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQwN&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55396)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQwh&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55397)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQw_&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55398)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQxJ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55399)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQxd&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55400)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQxx&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55401)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQyF&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55402)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQyZ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55403)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQyt&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55404)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQzB&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55405)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQzV&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55406)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQzp&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55407)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ-7&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55408)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ-R&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55410)
+accepted connection from ('221.150.37.160', 55409)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ_3&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ-l&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55411)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ_N&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55412)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ_h&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55413)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoQ__&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55414)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR0J&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55415)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR0d&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55416)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR0x&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55417)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR1F&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55418)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR1Z&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55419)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR1t&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55420)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR2B&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55421)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR2V&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55422)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR2p&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55423)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR37&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55424)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR3R&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55425)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR3l&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55426)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR43&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55427)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR4N&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55428)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR4h&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55429)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR4_&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55430)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR5J&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55431)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR5d&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55432)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR5x&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55433)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR6F&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55434)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR6Z&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55435)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR6t&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55436)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR7B&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55437)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR7V&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55438)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR7p&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55439)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR88&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55440)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR8S&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55445)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR8m&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55446)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR96&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55447)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR9O&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55448)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR9h&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55449)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoR9_&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55450)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRAJ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55451)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRAd&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55452)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRAx&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55453)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRBF&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55454)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRBZ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55455)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRBt&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55456)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRCB&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55457)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRCV&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55458)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRCp&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55459)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRD7&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55460)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRDR&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55461)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRDm&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55462)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRE3&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55463)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoREN&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55464)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoREi&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55465)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRF0&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55466)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRFJ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55467)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRFd&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55468)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRFx&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55469)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRGF&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55470)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRGZ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55471)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRGt&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55472)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRHB&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55473)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRHV&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55474)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRHp&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55475)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRI7&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55476)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRIR&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55477)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRIl&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55478)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRJ3&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55479)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRJN&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55480)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRJh&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55481)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRJ_&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55482)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRKJ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55483)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRKd&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55484)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRKx&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55485)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRLF&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55486)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRLZ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55487)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRLt&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55488)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRMB&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55489)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRMV&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55490)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRMp&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55491)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRN7&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55492)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRNR&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55493)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRNl&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55494)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRO3&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55499)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRON&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55500)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoROi&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55501)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRO_&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55502)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRPJ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55503)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRPd&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55505)
+accepted connection from ('221.150.37.160', 55504)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRQF&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRPx&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55506)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRQZ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55507)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRQt&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55508)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRRB&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55509)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRRV&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55510)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRRp&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55511)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRS7&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55512)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRSR&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55513)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRSl&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55514)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRT3&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55515)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRTN&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55516)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRTh&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55517)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRT_&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55518)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRUJ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55519)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRUd&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55520)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRUy&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55521)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRVF&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55522)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRVZ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55523)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRVt&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55524)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRWB&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55525)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRWV&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55526)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRWp&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55527)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRX8&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55528)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRXR&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55529)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRXl&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55530)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRY3&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55531)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRYN&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55533)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRY_&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55532)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRYh&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55534)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRZJ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55535)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRZd&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55536)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRZx&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55537)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRaG&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55538)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRaa&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55539)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRau&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55540)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRbB&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55541)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRbW&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55542)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRbq&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55543)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRc8&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55544)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRcR&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55547)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRdO&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55545)
+accepted connection from ('221.150.37.160', 55546)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRcl&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRd4&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55548)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRdi&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55553)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRe0&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55554)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoReJ&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55555)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRed&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55556)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRey&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55557)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRfG&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55558)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRfa&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55559)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRfu&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55560)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRgC&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55561)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRgW&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55562)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRgq&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55563)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRh7&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55564)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRhS&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55565)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRhm&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55566)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRi4&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55567)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRiO&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55568)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRih&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55569)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRj0&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55570)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRjK&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55571)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRje&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55572)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRjy&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55573)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRkG&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55574)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRka&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55575)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRkt&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55576)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRlC&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55577)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRlW&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55578)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRlq&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+accepted connection from ('221.150.37.160', 55579)
+GET /socket.io/?EIO=3&transport=polling&t=MdSoRmA&b64=1 HTTP/1.1
+User-Agent: node-XMLHttpRequest
+Accept: */*
+Host: iot.dymeter.com:5005
+Connection: close
+
+
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+closing connection to ('221.150.37.160', 55579)
+closing connection to ('221.150.37.160', 55575)
+closing connection to ('221.150.37.160', 55577)
+closing connection to ('221.150.37.160', 55574)
+closing connection to ('221.150.37.160', 55564)
+closing connection to ('221.150.37.160', 55571)
+closing connection to ('221.150.37.160', 55559)
+closing connection to ('221.150.37.160', 55566)
+closing connection to ('221.150.37.160', 55569)
+closing connection to ('221.150.37.160', 55561)
+closing connection to ('221.150.37.160', 55563)
+closing connection to ('221.150.37.160', 55572)
+closing connection to ('221.150.37.160', 55568)
+closing connection to ('221.150.37.160', 55567)
+closing connection to ('221.150.37.160', 55560)
+closing connection to ('221.150.37.160', 55565)
+closing connection to ('221.150.37.160', 55562)
+closing connection to ('221.150.37.160', 55557)
+closing connection to ('221.150.37.160', 55558)
+closing connection to ('221.150.37.160', 55543)
+closing connection to ('221.150.37.160', 55541)
+closing connection to ('221.150.37.160', 55537)
+closing connection to ('221.150.37.160', 55555)
+closing connection to ('221.150.37.160', 55547)
+closing connection to ('221.150.37.160', 55548)
+closing connection to ('221.150.37.160', 55539)
+closing connection to ('221.150.37.160', 55536)
+closing connection to ('221.150.37.160', 55542)
+closing connection to ('221.150.37.160', 55535)
+closing connection to ('221.150.37.160', 55553)
+closing connection to ('221.150.37.160', 55554)
+closing connection to ('221.150.37.160', 55534)
+closing connection to ('221.150.37.160', 55533)
+closing connection to ('221.150.37.160', 55531)
+closing connection to ('221.150.37.160', 55526)
+closing connection to ('221.150.37.160', 55530)
+closing connection to ('221.150.37.160', 55524)
+closing connection to ('221.150.37.160', 55527)
+closing connection to ('221.150.37.160', 55528)
+closing connection to ('221.150.37.160', 55520)
+closing connection to ('221.150.37.160', 55518)
+closing connection to ('221.150.37.160', 55529)
+closing connection to ('221.150.37.160', 55521)
+closing connection to ('221.150.37.160', 55519)
+closing connection to ('221.150.37.160', 55522)
+closing connection to ('221.150.37.160', 55516)
+closing connection to ('221.150.37.160', 55515)
+closing connection to ('221.150.37.160', 55509)
+closing connection to ('221.150.37.160', 55510)
+closing connection to ('221.150.37.160', 55506)
+closing connection to ('221.150.37.160', 55513)
+closing connection to ('221.150.37.160', 55505)
+closing connection to ('221.150.37.160', 55502)
+closing connection to ('221.150.37.160', 55501)
+closing connection to ('221.150.37.160', 55511)
+closing connection to ('221.150.37.160', 55507)
+closing connection to ('221.150.37.160', 55508)
+closing connection to ('221.150.37.160', 55500)
+closing connection to ('221.150.37.160', 55484)
+closing connection to ('221.150.37.160', 55491)
+closing connection to ('221.150.37.160', 55492)
+closing connection to ('221.150.37.160', 55488)
+closing connection to ('221.150.37.160', 55493)
+closing connection to ('221.150.37.160', 55494)
+closing connection to ('221.150.37.160', 55489)
+closing connection to ('221.150.37.160', 55487)
+closing connection to ('221.150.37.160', 55479)
+closing connection to ('221.150.37.160', 55483)
+closing connection to ('221.150.37.160', 55476)
+closing connection to ('221.150.37.160', 55576)
+closing connection to ('221.150.37.160', 55499)
+closing connection to ('221.150.37.160', 55477)
+closing connection to ('221.150.37.160', 55481)
+closing connection to ('221.150.37.160', 55578)
+closing connection to ('221.150.37.160', 55471)
+closing connection to ('221.150.37.160', 55472)
+closing connection to ('221.150.37.160', 55454)
+closing connection to ('221.150.37.160', 55456)
+closing connection to ('221.150.37.160', 55473)
+closing connection to ('221.150.37.160', 55469)
+closing connection to ('221.150.37.160', 55463)
+closing connection to ('221.150.37.160', 55468)
+closing connection to ('221.150.37.160', 55459)
+closing connection to ('221.150.37.160', 55455)
+closing connection to ('221.150.37.160', 55464)
+closing connection to ('221.150.37.160', 55460)
+closing connection to ('221.150.37.160', 55470)
+closing connection to ('221.150.37.160', 55474)
+closing connection to ('221.150.37.160', 55453)
+closing connection to ('221.150.37.160', 55458)
+closing connection to ('221.150.37.160', 55461)
+closing connection to ('221.150.37.160', 55570)
+closing connection to ('221.150.37.160', 55573)
+closing connection to ('221.150.37.160', 55437)
+closing connection to ('221.150.37.160', 55451)
+closing connection to ('221.150.37.160', 55452)
+closing connection to ('221.150.37.160', 55436)
+closing connection to ('221.150.37.160', 55449)
+closing connection to ('221.150.37.160', 55450)
+closing connection to ('221.150.37.160', 55446)
+closing connection to ('221.150.37.160', 55434)
+closing connection to ('221.150.37.160', 55433)
+closing connection to ('221.150.37.160', 55429)
+closing connection to ('221.150.37.160', 55430)
+closing connection to ('221.150.37.160', 55556)
+closing connection to ('221.150.37.160', 55540)
+closing connection to ('221.150.37.160', 55544)
+closing connection to ('221.150.37.160', 55435)
+closing connection to ('221.150.37.160', 55447)
+closing connection to ('221.150.37.160', 55439)
+closing connection to ('221.150.37.160', 55432)
+closing connection to ('221.150.37.160', 55431)
+closing connection to ('221.150.37.160', 55546)
+closing connection to ('221.150.37.160', 55545)
+closing connection to ('221.150.37.160', 55538)
+closing connection to ('221.150.37.160', 55418)
+closing connection to ('221.150.37.160', 55424)
+closing connection to ('221.150.37.160', 55416)
+closing connection to ('221.150.37.160', 55422)
+closing connection to ('221.150.37.160', 55421)
+closing connection to ('221.150.37.160', 55414)
+closing connection to ('221.150.37.160', 55426)
+closing connection to ('221.150.37.160', 55532)
+closing connection to ('221.150.37.160', 55413)
+closing connection to ('221.150.37.160', 55523)
+closing connection to ('221.150.37.160', 55428)
+closing connection to ('221.150.37.160', 55423)
+closing connection to ('221.150.37.160', 55427)
+closing connection to ('221.150.37.160', 55419)
+closing connection to ('221.150.37.160', 55415)
+closing connection to ('221.150.37.160', 55517)
+closing connection to ('221.150.37.160', 55420)
+closing connection to ('221.150.37.160', 55514)
+closing connection to ('221.150.37.160', 55525)
+closing connection to ('221.150.37.160', 55402)
+closing connection to ('221.150.37.160', 55410)
+closing connection to ('221.150.37.160', 55393)
+closing connection to ('221.150.37.160', 55404)
+closing connection to ('221.150.37.160', 55400)
+closing connection to ('221.150.37.160', 55399)
+closing connection to ('221.150.37.160', 55406)
+closing connection to ('221.150.37.160', 55395)
+closing connection to ('221.150.37.160', 55398)
+closing connection to ('221.150.37.160', 55394)
+closing connection to ('221.150.37.160', 55407)
+closing connection to ('221.150.37.160', 55412)
+closing connection to ('221.150.37.160', 55512)
+closing connection to ('221.150.37.160', 55503)
+closing connection to ('221.150.37.160', 55504)
+closing connection to ('221.150.37.160', 55384)
+closing connection to ('221.150.37.160', 55391)
+closing connection to ('221.150.37.160', 55369)
+closing connection to ('221.150.37.160', 55379)
+closing connection to ('221.150.37.160', 55380)
+closing connection to ('221.150.37.160', 55376)
+closing connection to ('221.150.37.160', 55371)
+closing connection to ('221.150.37.160', 55368)
+closing connection to ('221.150.37.160', 55490)
+closing connection to ('221.150.37.160', 55385)
+closing connection to ('221.150.37.160', 55382)
+closing connection to ('221.150.37.160', 55378)
+closing connection to ('221.150.37.160', 55381)
+closing connection to ('221.150.37.160', 55386)
+closing connection to ('221.150.37.160', 55373)
+closing connection to ('221.150.37.160', 55480)
+closing connection to ('221.150.37.160', 55377)
+closing connection to ('221.150.37.160', 55475)
+closing connection to ('221.150.37.160', 55486)
+closing connection to ('221.150.37.160', 55485)
+closing connection to ('221.150.37.160', 55482)
+closing connection to ('221.150.37.160', 55478)
+closing connection to ('221.150.37.160', 55364)
+closing connection to ('221.150.37.160', 55362)
+closing connection to ('221.150.37.160', 55359)
+closing connection to ('221.150.37.160', 55358)
+closing connection to ('221.150.37.160', 55360)
+closing connection to ('221.150.37.160', 55365)
+closing connection to ('221.150.37.160', 55467)
+closing connection to ('221.150.37.160', 55366)
+closing connection to ('221.150.37.160', 55466)
+closing connection to ('221.150.37.160', 55465)
+closing connection to ('221.150.37.160', 55457)
+closing connection to ('221.150.37.160', 55462)
+closing connection to ('221.150.37.160', 55445)
+closing connection to ('221.150.37.160', 55438)
+closing connection to ('221.150.37.160', 55448)
+closing connection to ('221.150.37.160', 55440)
+closing connection to ('221.150.37.160', 55425)
+closing connection to ('221.150.37.160', 55417)
+closing connection to ('221.150.37.160', 55401)
+closing connection to ('221.150.37.160', 55405)
+closing connection to ('221.150.37.160', 55409)
+closing connection to ('221.150.37.160', 55397)
+closing connection to ('221.150.37.160', 55411)
+closing connection to ('221.150.37.160', 55403)
+closing connection to ('221.150.37.160', 55408)
+closing connection to ('221.150.37.160', 55396)
+closing connection to ('221.150.37.160', 55357)
+closing connection to ('221.150.37.160', 55383)
+closing connection to ('221.150.37.160', 55375)
+closing connection to ('221.150.37.160', 55372)
+closing connection to ('221.150.37.160', 55392)
+closing connection to ('221.150.37.160', 55374)
+closing connection to ('221.150.37.160', 55370)
+closing connection to ('221.150.37.160', 55351)
+closing connection to ('221.150.37.160', 55348)
+closing connection to ('221.150.37.160', 55344)
+closing connection to ('221.150.37.160', 55353)
+closing connection to ('221.150.37.160', 55354)
+closing connection to ('221.150.37.160', 55345)
+closing connection to ('221.150.37.160', 55349)
+closing connection to ('221.150.37.160', 55350)
+closing connection to ('221.150.37.160', 55346)
+closing connection to ('221.150.37.160', 55342)
+closing connection to ('221.150.37.160', 55367)
+closing connection to ('221.150.37.160', 55363)
+closing connection to ('221.150.37.160', 55356)
+closing connection to ('221.150.37.160', 55355)
+closing connection to ('221.150.37.160', 55347)
+closing connection to ('221.150.37.160', 55361)
+closing connection to ('221.150.37.160', 55330)
+closing connection to ('221.150.37.160', 55327)
+closing connection to ('221.150.37.160', 55324)
+closing connection to ('221.150.37.160', 55319)
+closing connection to ('221.150.37.160', 55340)
+closing connection to ('221.150.37.160', 55325)
+closing connection to ('221.150.37.160', 55329)
+closing connection to ('221.150.37.160', 55320)
+closing connection to ('221.150.37.160', 55339)
+closing connection to ('221.150.37.160', 55331)
+closing connection to ('221.150.37.160', 55326)
+closing connection to ('221.150.37.160', 55328)
+closing connection to ('221.150.37.160', 55322)
+closing connection to ('221.150.37.160', 55321)
+closing connection to ('221.150.37.160', 55316)
+closing connection to ('221.150.37.160', 55303)
+closing connection to ('221.150.37.160', 55312)
+closing connection to ('221.150.37.160', 55299)
+closing connection to ('221.150.37.160', 55317)
+closing connection to ('221.150.37.160', 55314)
+closing connection to ('221.150.37.160', 55309)
+closing connection to ('221.150.37.160', 55315)
+closing connection to ('221.150.37.160', 55307)
+closing connection to ('221.150.37.160', 55308)
+closing connection to ('221.150.37.160', 55300)
+closing connection to ('221.150.37.160', 55306)
+closing connection to ('221.150.37.160', 55313)
+closing connection to ('221.150.37.160', 55305)
+closing connection to ('221.150.37.160', 55310)
+closing connection to ('221.150.37.160', 55302)
+closing connection to ('221.150.37.160', 55301)
+closing connection to ('221.150.37.160', 55290)
+closing connection to ('221.150.37.160', 55289)
+closing connection to ('221.150.37.160', 55277)
+closing connection to ('221.150.37.160', 55288)
+closing connection to ('221.150.37.160', 55284)
+closing connection to ('221.150.37.160', 55296)
+closing connection to ('221.150.37.160', 55294)
+closing connection to ('221.150.37.160', 55293)
+closing connection to ('221.150.37.160', 55286)
+closing connection to ('221.150.37.160', 55285)
+closing connection to ('221.150.37.160', 55298)
+closing connection to ('221.150.37.160', 55292)
+closing connection to ('221.150.37.160', 55287)
+closing connection to ('221.150.37.160', 55291)
+closing connection to ('221.150.37.160', 55283)
+closing connection to ('221.150.37.160', 55274)
+closing connection to ('221.150.37.160', 55269)
+closing connection to ('221.150.37.160', 55263)
+closing connection to ('221.150.37.160', 55260)
+closing connection to ('221.150.37.160', 55259)
+closing connection to ('221.150.37.160', 55272)
+closing connection to ('221.150.37.160', 55267)
+closing connection to ('221.150.37.160', 55258)
+closing connection to ('221.150.37.160', 55273)
+closing connection to ('221.150.37.160', 55270)
+closing connection to ('221.150.37.160', 55265)
+closing connection to ('221.150.37.160', 55271)
+closing connection to ('221.150.37.160', 55276)
+closing connection to ('221.150.37.160', 55268)
+closing connection to ('221.150.37.160', 55264)
+closing connection to ('221.150.37.160', 55261)
+closing connection to ('221.150.37.160', 55251)
+closing connection to ('221.150.37.160', 55249)
+closing connection to ('221.150.37.160', 55256)
+closing connection to ('221.150.37.160', 55248)
+closing connection to ('221.150.37.160', 55255)
+closing connection to ('221.150.37.160', 55243)
+closing connection to ('221.150.37.160', 55244)
+closing connection to ('221.150.37.160', 55239)
+closing connection to ('221.150.37.160', 55254)
+closing connection to ('221.150.37.160', 55257)
+closing connection to ('221.150.37.160', 55250)
+closing connection to ('221.150.37.160', 55245)
+closing connection to ('221.150.37.160', 55341)
+closing connection to ('221.150.37.160', 55242)
+closing connection to ('221.150.37.160', 55238)
+closing connection to ('221.150.37.160', 55352)
+closing connection to ('221.150.37.160', 55343)
+closing connection to ('221.150.37.160', 55221)
+closing connection to ('221.150.37.160', 55237)
+closing connection to ('221.150.37.160', 55231)
+closing connection to ('221.150.37.160', 55236)
+closing connection to ('221.150.37.160', 55235)
+closing connection to ('221.150.37.160', 55229)
+closing connection to ('221.150.37.160', 55222)
+closing connection to ('221.150.37.160', 55218)
+closing connection to ('221.150.37.160', 55337)
+closing connection to ('221.150.37.160', 55338)
+closing connection to ('221.150.37.160', 55234)
+closing connection to ('221.150.37.160', 55223)
+closing connection to ('221.150.37.160', 55233)
+closing connection to ('221.150.37.160', 55323)
+closing connection to ('221.150.37.160', 55219)
+closing connection to ('221.150.37.160', 55220)
+closing connection to ('221.150.37.160', 55224)
+closing connection to ('221.150.37.160', 55210)
+closing connection to ('221.150.37.160', 55214)
+closing connection to ('221.150.37.160', 55332)
+closing connection to ('221.150.37.160', 55213)
+closing connection to ('221.150.37.160', 55318)
+closing connection to ('221.150.37.160', 55202)
+closing connection to ('221.150.37.160', 55211)
+closing connection to ('221.150.37.160', 55198)
+closing connection to ('221.150.37.160', 55201)
+closing connection to ('221.150.37.160', 55206)
+closing connection to ('221.150.37.160', 55205)
+closing connection to ('221.150.37.160', 55199)
+closing connection to ('221.150.37.160', 55216)
+closing connection to ('221.150.37.160', 55311)
+closing connection to ('221.150.37.160', 55203)
+closing connection to ('221.150.37.160', 55304)
+closing connection to ('221.150.37.160', 55204)
+closing connection to ('221.150.37.160', 55200)
+closing connection to ('221.150.37.160', 55191)
+closing connection to ('221.150.37.160', 55182)
+closing connection to ('221.150.37.160', 55181)
+closing connection to ('221.150.37.160', 55196)
+closing connection to ('221.150.37.160', 55187)
+closing connection to ('221.150.37.160', 55183)
+closing connection to ('221.150.37.160', 55179)
+closing connection to ('221.150.37.160', 55180)
+closing connection to ('221.150.37.160', 55194)
+closing connection to ('221.150.37.160', 55186)
+closing connection to ('221.150.37.160', 55193)
+closing connection to ('221.150.37.160', 55197)
+closing connection to ('221.150.37.160', 55190)
+closing connection to ('221.150.37.160', 55278)
+closing connection to ('221.150.37.160', 55297)
+closing connection to ('221.150.37.160', 55295)
+closing connection to ('221.150.37.160', 55167)
+closing connection to ('221.150.37.160', 55163)
+closing connection to ('221.150.37.160', 55169)
+closing connection to ('221.150.37.160', 55162)
+closing connection to ('221.150.37.160', 55176)
+closing connection to ('221.150.37.160', 55161)
+closing connection to ('221.150.37.160', 55168)
+closing connection to ('221.150.37.160', 55175)
+closing connection to ('221.150.37.160', 55164)
+closing connection to ('221.150.37.160', 55159)
+closing connection to ('221.150.37.160', 55177)
+closing connection to ('221.150.37.160', 55156)
+closing connection to ('221.150.37.160', 55170)
+closing connection to ('221.150.37.160', 55266)
+closing connection to ('221.150.37.160', 55166)
+closing connection to ('221.150.37.160', 55157)
+closing connection to ('221.150.37.160', 55275)
+closing connection to ('221.150.37.160', 55262)
+closing connection to ('221.150.37.160', 55152)
+closing connection to ('221.150.37.160', 55140)
+closing connection to ('221.150.37.160', 55139)
+closing connection to ('221.150.37.160', 55149)
+closing connection to ('221.150.37.160', 55147)
+closing connection to ('221.150.37.160', 55148)
+closing connection to ('221.150.37.160', 55144)
+closing connection to ('221.150.37.160', 55143)
+closing connection to ('221.150.37.160', 55252)
+closing connection to ('221.150.37.160', 55146)
+closing connection to ('221.150.37.160', 55153)
+closing connection to ('221.150.37.160', 55247)
+closing connection to ('221.150.37.160', 55138)
+closing connection to ('221.150.37.160', 55137)
+closing connection to ('221.150.37.160', 55141)
+closing connection to ('221.150.37.160', 55145)
+closing connection to ('221.150.37.160', 55240)
+closing connection to ('221.150.37.160', 55253)
+closing connection to ('221.150.37.160', 55246)
+closing connection to ('221.150.37.160', 55241)
+closing connection to ('221.150.37.160', 55136)
+closing connection to ('221.150.37.160', 55129)
+closing connection to ('221.150.37.160', 55125)
+closing connection to ('221.150.37.160', 55134)
+closing connection to ('221.150.37.160', 55130)
+closing connection to ('221.150.37.160', 55121)
+closing connection to ('221.150.37.160', 55114)
+closing connection to ('221.150.37.160', 55232)
+closing connection to ('221.150.37.160', 55124)
+closing connection to ('221.150.37.160', 55132)
+closing connection to ('221.150.37.160', 55230)
+closing connection to ('221.150.37.160', 55127)
+closing connection to ('221.150.37.160', 55115)
+closing connection to ('221.150.37.160', 55217)
+closing connection to ('221.150.37.160', 55113)
+closing connection to ('221.150.37.160', 55110)
+closing connection to ('221.150.37.160', 55107)
+closing connection to ('221.150.37.160', 55105)
+closing connection to ('221.150.37.160', 55099)
+closing connection to ('221.150.37.160', 55109)
+closing connection to ('221.150.37.160', 55096)
+closing connection to ('221.150.37.160', 55209)
+closing connection to ('221.150.37.160', 55112)
+closing connection to ('221.150.37.160', 55111)
+closing connection to ('221.150.37.160', 55108)
+closing connection to ('221.150.37.160', 55097)
+closing connection to ('221.150.37.160', 55101)
+closing connection to ('221.150.37.160', 55104)
+closing connection to ('221.150.37.160', 55098)
+closing connection to ('221.150.37.160', 55102)
+closing connection to ('221.150.37.160', 55212)
+closing connection to ('221.150.37.160', 55208)
+closing connection to ('221.150.37.160', 55215)
+closing connection to ('221.150.37.160', 55207)
+closing connection to ('221.150.37.160', 55087)
+closing connection to ('221.150.37.160', 55092)
+closing connection to ('221.150.37.160', 55088)
+closing connection to ('221.150.37.160', 55086)
+closing connection to ('221.150.37.160', 55085)
+closing connection to ('221.150.37.160', 55192)
+closing connection to ('221.150.37.160', 55184)
+closing connection to ('221.150.37.160', 55195)
+closing connection to ('221.150.37.160', 55188)
+closing connection to ('221.150.37.160', 55090)
+closing connection to ('221.150.37.160', 55094)
+closing connection to ('221.150.37.160', 55089)
+closing connection to ('221.150.37.160', 55185)
+closing connection to ('221.150.37.160', 55189)
+closing connection to ('221.150.37.160', 55160)
+closing connection to ('221.150.37.160', 55155)
+closing connection to ('221.150.37.160', 55178)
+closing connection to ('221.150.37.160', 55165)
+closing connection to ('221.150.37.160', 55158)
+closing connection to ('221.150.37.160', 55151)
+closing connection to ('221.150.37.160', 55154)
+closing connection to ('221.150.37.160', 55150)
+closing connection to ('221.150.37.160', 55142)
+closing connection to ('221.150.37.160', 55122)
+closing connection to ('221.150.37.160', 55133)
+closing connection to ('221.150.37.160', 55126)
+closing connection to ('221.150.37.160', 55117)
+closing connection to ('221.150.37.160', 55131)
+closing connection to ('221.150.37.160', 55128)
+closing connection to ('221.150.37.160', 55123)
+closing connection to ('221.150.37.160', 55135)
+closing connection to ('221.150.37.160', 55103)
+closing connection to ('221.150.37.160', 55100)
+closing connection to ('221.150.37.160', 55106)
+closing connection to ('221.150.37.160', 55095)
+closing connection to ('221.150.37.160', 55084)
+closing connection to ('221.150.37.160', 55091)
+closing connection to ('221.150.37.160', 55093)
+closing connection to ('221.150.37.160', 55040)
+closing connection to ('221.150.37.160', 55057)
+closing connection to ('221.150.37.160', 55070)
+closing connection to ('221.150.37.160', 55044)
+closing connection to ('221.150.37.160', 55068)
+closing connection to ('221.150.37.160', 55055)
+closing connection to ('221.150.37.160', 55075)
+closing connection to ('221.150.37.160', 55048)
+closing connection to ('221.150.37.160', 55039)
+closing connection to ('221.150.37.160', 55081)
+closing connection to ('221.150.37.160', 55049)
+closing connection to ('221.150.37.160', 55079)
+closing connection to ('221.150.37.160', 55082)
+closing connection to ('221.150.37.160', 55066)
+closing connection to ('221.150.37.160', 55061)
+closing connection to ('221.150.37.160', 55060)
+closing connection to ('221.150.37.160', 55042)
+closing connection to ('221.150.37.160', 55041)
+closing connection to ('221.150.37.160', 55051)
+closing connection to ('221.150.37.160', 55058)
+closing connection to ('221.150.37.160', 55076)
+closing connection to ('221.150.37.160', 55069)
+closing connection to ('221.150.37.160', 55046)
+closing connection to ('221.150.37.160', 55047)
+closing connection to ('221.150.37.160', 55074)
+closing connection to ('221.150.37.160', 55071)
+closing connection to ('221.150.37.160', 55067)
+closing connection to ('221.150.37.160', 55077)
+closing connection to ('221.150.37.160', 55083)
+closing connection to ('221.150.37.160', 55080)
+closing connection to ('221.150.37.160', 55072)
+closing connection to ('221.150.37.160', 55059)
+closing connection to ('221.150.37.160', 55054)
+closing connection to ('221.150.37.160', 55078)
+closing connection to ('221.150.37.160', 55053)
+closing connection to ('221.150.37.160', 55073)
+closing connection to ('221.150.37.160', 55045)
+closing connection to ('221.150.37.160', 55050)
+closing connection to ('221.150.37.160', 55043)
+closing connection to ('221.150.37.160', 55052)
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+{"serial_code":"hong1234", "sensor": [{"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}, {"type": "PHY00", "state": "00", "value": 4.240, "temp": 20.000}]}
+closing connection to
+
+시간: 1562213224
+{'serial_code': '11246', 'sensor': [{'type': 'PH', 'state': '06', 'value': 7.95, 'unit': 'pH', 'temp': 25.0}, {'type': 'NONE', 'state': '00', 'value': 4.0, 'unit': 'NONE', 'temp': 4.0}]}
+number 1
+timestamp, serial_code ['1562213224', '11246']
+type, state, value, temp ['PH', '06', 7.95, 25.0]
+
+시간: 1562213804
+{'serial_code': '11246', 'sensor': [{'type': 'PH', 'state': '06', 'value': 7.95, 'unit': 'pH', 'temp': 25.0}, {'type': 'NONE', 'state': '00', 'value': 4.0, 'unit': 'NONE', 'temp': 4.0}]}
+number 1
+timestamp, serial_code ['1562213804', '11246']
+type, state, value, temp ['PH', '06', 7.95, 25.0]
+number 2
+timestamp, serial_code ['1562213804', '11246']
+type, state, value, temp ['PH', '06', 7.95, 25.0, 'NONE', '00', 4.0, 4.0]
